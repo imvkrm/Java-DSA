@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
         "src/oops/staticfolder",
-        "src/oops/inheritence"
+        "src/oops/inheritence",
+        "src/data_structure/list",
+        "src/data_structure/generics"
     ]
 }
