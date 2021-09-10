@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "src/oops/staticfolder",
         "src/oops/inheritence",
-        "src/data_structure/list",
-        "src/data_structure/generics"
+        "src/data_structure/generics",
+        "src/data_structure/collection/priortyQueue",
+        "src/data_structure/collection/sets"
     ]
 }
